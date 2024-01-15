@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosikxo/intro-to-jest-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosikxo/intro-to-jest-testing/issues"
+  },
+  "homepage": "https://github.com/gosikxo/intro-to-jest-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
